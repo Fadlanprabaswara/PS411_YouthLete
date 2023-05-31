@@ -1,0 +1,8 @@
+Goals,BodyPart,Type
+Fighter,"[Abdominals, Abductors, Adductors, Biceps, Calves, Chest, Forearms, Glutes, Hamstrings, Lats, Lower_Back, Middle_Back, Neck, Quadriceps, Shoulders, Traps, Triceps]","[Cardio, Plyometrics, Powerlifting, Strength, Stretching]"
+Soccer Player,"[Abdominals, Biceps, Calves, Chest, Glutes, Hamstrings, Lats, Lower_Back, Neck, Quadriceps, Shoulders, Traps, Triceps]","[Cardio, Plyometrics, Strength, Stretching]"
+Badminton Player,"[Abdominals, Calves, Chest, Forearms, Glutes, Hamstring, Lats, Shoulders]","[Cardio, Plyometrics, Strength, Stretching]"
+Basketball Player,"[Abdominals, Abductors, Adductors, Biceps, Calves, Chest, Glutes, Hamstrings, Lower_Back, Middle_Back, Quadriceps, Traps, Triceps]","[Cardio, Plyometrics, Strength, Stretching]"
+Marathoner,"[Abdominals, Calves, Glutes, Hamstrings, Quadriceps]","[Cardio, Plyometrics, Strength, Stretching]"
+Volleyball Player,"[Abdominals, Abductors, Adductors, Biceps, Calves, Shoulders, Hamstrings, Glutes, Forearms]","[Cardio, Plyometrics, Strength, Stretching]"
+Weightlifter,"[Abdominals, Glutes, Hamstrings, Lower_Back, Quadriceps, Shoulders, Traps]","[Cardio, Olympic Weightlifting, Plyometrics, Powerlifting, Stretching, Strength, Strongman]"

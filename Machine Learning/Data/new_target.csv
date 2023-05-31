@@ -1,0 +1,230 @@
+Goals,BodyPart,Type
+Fighter,Abdominals,Cardio
+Fighter,Abdominals,Plyometrics
+Fighter,Abdominals,Strength
+Fighter,Abdominals,Stretching
+Fighter,Abductors,Strength
+Fighter,Abductors,Stretching
+Fighter,Adductors,Plyometrics
+Fighter,Adductors,Strength
+Fighter,Adductors,Stretching
+Fighter,Biceps,Strength
+Fighter,Biceps,Stretching
+Fighter,Calves,Cardio
+Fighter,Calves,Plyometrics
+Fighter,Calves,Strength
+Fighter,Calves,Stretching
+Fighter,Chest,Cardio
+Fighter,Chest,Plyometrics
+Fighter,Chest,Powerlifting
+Fighter,Chest,Strength
+Fighter,Chest,Stretching
+Fighter,Forearms,Strength
+Fighter,Forearms,Stretching
+Fighter,Glutes,Powerlifting
+Fighter,Glutes,Strength
+Fighter,Glutes,Stretching
+Fighter,Hamstrings,Cardio
+Fighter,Hamstrings,Plyometrics
+Fighter,Hamstrings,Powerlifting
+Fighter,Hamstrings,Strength
+Fighter,Hamstrings,Stretching
+Fighter,Lats,Plyometrics
+Fighter,Lats,Strength
+Fighter,Lats,Stretching
+Fighter,Lower_Back,Powerlifting
+Fighter,Lower_Back,Strength
+Fighter,Lower_Back,Stretching
+Fighter,Middle_Back,Cardio
+Fighter,Middle_Back,Strength
+Fighter,Middle_Back,Stretching
+Fighter,Neck,Strength
+Fighter,Neck,Stretching
+Fighter,Quadriceps,Cardio
+Fighter,Quadriceps,Plyometrics
+Fighter,Quadriceps,Powerlifting
+Fighter,Quadriceps,Strength
+Fighter,Quadriceps,Stretching
+Fighter,Shoulders,Powerlifting
+Fighter,Shoulders,Strength
+Fighter,Shoulders,Stretching
+Fighter,Traps,Plyometrics
+Fighter,Triceps,Plyometrics
+Fighter,Triceps,Powerlifting
+Fighter,Triceps,Strength
+Fighter,Triceps,Stretching
+Soccer Player,Abdominals,Cardio
+Soccer Player,Abdominals,Plyometrics
+Soccer Player,Abdominals,Strength
+Soccer Player,Abdominals,Stretching
+Soccer Player,Biceps,Strength
+Soccer Player,Biceps,Stretching
+Soccer Player,Calves,Cardio
+Soccer Player,Calves,Plyometrics
+Soccer Player,Calves,Strength
+Soccer Player,Calves,Stretching
+Soccer Player,Chest,Cardio
+Soccer Player,Chest,Plyometrics
+Soccer Player,Chest,Strength
+Soccer Player,Chest,Stretching
+Soccer Player,Glutes,Strength
+Soccer Player,Glutes,Stretching
+Soccer Player,Hamstrings,Cardio
+Soccer Player,Hamstrings,Plyometrics
+Soccer Player,Hamstrings,Strength
+Soccer Player,Hamstrings,Stretching
+Soccer Player,Lats,Plyometrics
+Soccer Player,Lats,Strength
+Soccer Player,Lats,Stretching
+Soccer Player,Lower_Back,Strength
+Soccer Player,Lower_Back,Stretching
+Soccer Player,Neck,Strength
+Soccer Player,Neck,Stretching
+Soccer Player,Quadriceps,Cardio
+Soccer Player,Quadriceps,Plyometrics
+Soccer Player,Quadriceps,Strength
+Soccer Player,Quadriceps,Stretching
+Soccer Player,Shoulders,Strength
+Soccer Player,Shoulders,Stretching
+Soccer Player,Traps,Plyometrics
+Soccer Player,Triceps,Plyometrics
+Soccer Player,Triceps,Strength
+Soccer Player,Triceps,Stretching
+Badminton Player,Abdominals,Cardio
+Badminton Player,Abdominals,Plyometrics
+Badminton Player,Abdominals,Strength
+Badminton Player,Abdominals,Stretching
+Badminton Player,Calves,Cardio
+Badminton Player,Calves,Plyometrics
+Badminton Player,Calves,Strength
+Badminton Player,Calves,Stretching
+Badminton Player,Chest,Cardio
+Badminton Player,Chest,Plyometrics
+Badminton Player,Chest,Strength
+Badminton Player,Chest,Stretching
+Badminton Player,Forearms,Strength
+Badminton Player,Forearms,Stretching
+Badminton Player,Glutes,Strength
+Badminton Player,Glutes,Stretching
+Badminton Player,Hamstrings,Cardio
+Badminton Player,Hamstrings,Plyometrics
+Badminton Player,Hamstrings,Strength
+Badminton Player,Hamstrings,Stretching
+Badminton Player,Lats,Plyometrics
+Badminton Player,Lats,Strength
+Badminton Player,Lats,Stretching
+Badminton Player,Shoulders,Strength
+Badminton Player,Shoulders,Stretching
+Basketball Player,Abdominals,Cardio
+Basketball Player,Abdominals,Plyometrics
+Basketball Player,Abdominals,Strength
+Basketball Player,Abdominals,Stretching
+Basketball Player,Abductors,Strength
+Basketball Player,Abductors,Stretching
+Basketball Player,Adductors,Plyometrics
+Basketball Player,Adductors,Strength
+Basketball Player,Adductors,Stretching
+Basketball Player,Biceps,Strength
+Basketball Player,Biceps,Stretching
+Basketball Player,Calves,Cardio
+Basketball Player,Calves,Plyometrics
+Basketball Player,Calves,Strength
+Basketball Player,Calves,Stretching
+Basketball Player,Chest,Cardio
+Basketball Player,Chest,Plyometrics
+Basketball Player,Chest,Strength
+Basketball Player,Chest,Stretching
+Basketball Player,Glutes,Strength
+Basketball Player,Glutes,Stretching
+Basketball Player,Hamstrings,Cardio
+Basketball Player,Hamstrings,Plyometrics
+Basketball Player,Hamstrings,Strength
+Basketball Player,Hamstrings,Stretching
+Basketball Player,Lower_Back,Strength
+Basketball Player,Lower_Back,Stretching
+Basketball Player,Middle_Back,Cardio
+Basketball Player,Middle_Back,Strength
+Basketball Player,Middle_Back,Stretching
+Basketball Player,Quadriceps,Cardio
+Basketball Player,Quadriceps,Plyometrics
+Basketball Player,Quadriceps,Strength
+Basketball Player,Quadriceps,Stretching
+Basketball Player,Traps,Plyometrics
+Basketball Player,Triceps,Plyometrics
+Basketball Player,Triceps,Strength
+Basketball Player,Triceps,Stretching
+Marathoner,Abdominals,Cardio
+Marathoner,Abdominals,Plyometrics
+Marathoner,Abdominals,Strength
+Marathoner,Abdominals,Stretching
+Marathoner,Calves,Cardio
+Marathoner,Calves,Plyometrics
+Marathoner,Calves,Strength
+Marathoner,Calves,Stretching
+Marathoner,Glutes,Strength
+Marathoner,Glutes,Stretching
+Marathoner,Hamstrings,Cardio
+Marathoner,Hamstrings,Plyometrics
+Marathoner,Hamstrings,Strength
+Marathoner,Hamstrings,Stretching
+Marathoner,Quadriceps,Cardio
+Marathoner,Quadriceps,Plyometrics
+Marathoner,Quadriceps,Strength
+Marathoner,Quadriceps,Stretching
+Volleyball Player,Abdominals,Cardio
+Volleyball Player,Abdominals,Plyometrics
+Volleyball Player,Abdominals,Strength
+Volleyball Player,Abdominals,Stretching
+Volleyball Player,Abductors,Strength
+Volleyball Player,Abductors,Stretching
+Volleyball Player,Adductors,Plyometrics
+Volleyball Player,Adductors,Strength
+Volleyball Player,Adductors,Stretching
+Volleyball Player,Biceps,Strength
+Volleyball Player,Biceps,Stretching
+Volleyball Player,Calves,Cardio
+Volleyball Player,Calves,Plyometrics
+Volleyball Player,Calves,Strength
+Volleyball Player,Calves,Stretching
+Volleyball Player,Shoulders,Strength
+Volleyball Player,Shoulders,Stretching
+Volleyball Player,Hamstrings,Cardio
+Volleyball Player,Hamstrings,Plyometrics
+Volleyball Player,Hamstrings,Strength
+Volleyball Player,Hamstrings,Stretching
+Volleyball Player,Glutes,Strength
+Volleyball Player,Glutes,Stretching
+Volleyball Player,Forearms,Strength
+Volleyball Player,Forearms,Stretching
+Weightlifter,Abdominals,Cardio
+Weightlifter,Abdominals,Plyometrics
+Weightlifter,Abdominals,Strength
+Weightlifter,Abdominals,Stretching
+Weightlifter,Glutes,Olympic Weightlifting
+Weightlifter,Glutes,Powerlifting
+Weightlifter,Glutes,Strength
+Weightlifter,Glutes,Stretching
+Weightlifter,Hamstrings,Cardio
+Weightlifter,Hamstrings,Olympic Weightlifting
+Weightlifter,Hamstrings,Plyometrics
+Weightlifter,Hamstrings,Powerlifting
+Weightlifter,Hamstrings,Strength
+Weightlifter,Hamstrings,Stretching
+Weightlifter,Hamstrings,Strongman
+Weightlifter,Lower_Back,Powerlifting
+Weightlifter,Lower_Back,Strength
+Weightlifter,Lower_Back,Stretching
+Weightlifter,Lower_Back,Strongman
+Weightlifter,Quadriceps,Cardio
+Weightlifter,Quadriceps,Olympic Weightlifting
+Weightlifter,Quadriceps,Plyometrics
+Weightlifter,Quadriceps,Powerlifting
+Weightlifter,Quadriceps,Strength
+Weightlifter,Quadriceps,Stretching
+Weightlifter,Quadriceps,Strongman
+Weightlifter,Shoulders,Powerlifting
+Weightlifter,Shoulders,Strength
+Weightlifter,Shoulders,Stretching
+Weightlifter,Shoulders,Strongman
+Weightlifter,Traps,Olympic Weightlifting
+Weightlifter,Traps,Plyometrics
