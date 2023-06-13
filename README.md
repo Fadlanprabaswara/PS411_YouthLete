@@ -2,6 +2,7 @@
 
 <p align="center">
   <img width="35%" src="image/Youthlete.png" alt="YouthLete"><br>
+  <h2 align="center">YouthLete</h2>
 </p>
 
 ## Documentation
