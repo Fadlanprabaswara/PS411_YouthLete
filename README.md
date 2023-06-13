@@ -1,5 +1,9 @@
 # C23-PS411- Bangkit Capstone Project (YouthLete)
 
+<p align="center">
+  <img width="35%" src="image/Youthlete.pngg" alt="YouthLete"><br>
+</p>
+
 ## Documentation
 
 This project consist of three separate technologies combined into a single android application.
