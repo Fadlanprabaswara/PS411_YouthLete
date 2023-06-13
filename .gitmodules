@@ -1,0 +1,9 @@
+[submodule "YouthLete-Machine-Learning"]
+	path = Inacure-Machine-Learning
+	url = https://github.com/rifqoi/Inacure-Machine-Learning
+[submodule "YouthLete-app"]
+	path = inacure-app
+	url = https://github.com/Fadlanprabaswara/YouthLete
+[submodule "YouthLete-api"]
+	path = inacure-api
+	url = https://github.com/naufal360/inacure-api
