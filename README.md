@@ -1,7 +1,7 @@
 # C23-PS411- Bangkit Capstone Project (YouthLete)
 
 <p align="center">
-  <img width="35%" src="image/Youthlete.pngg" alt="YouthLete"><br>
+  <img width="35%" src="image/Youthlete.png" alt="YouthLete"><br>
 </p>
 
 ## Documentation
