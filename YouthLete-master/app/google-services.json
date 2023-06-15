@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583095669098",
+    "project_id": "youthlete",
+    "storage_bucket": "youthlete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583095669098:android:0ef767a01754c985049513",
+        "android_client_info": {
+          "package_name": "com.example.youthlete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583095669098-fm1dtgekjn02lk4gt45jlrgig3tpu7oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youthlete",
+            "certificate_hash": "e37f8ec982ffafda1984bfad5fcb817bf852d55c"
+          }
+        },
+        {
+          "client_id": "583095669098-jqd6cdtmioi9ke6vu3t4miljds2ntg2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUAoNSj8ZdD2K2XXNnJ7Ot98Uv2cAcYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583095669098-jqd6cdtmioi9ke6vu3t4miljds2ntg2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
