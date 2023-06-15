@@ -12,7 +12,7 @@ The development of athletes in Indonesia is not well supported by the advancemen
 
 This project consist of three separate technologies combined into a single android application.
 
-- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/Fadlanprabaswara/PS411_YouthLete/tree/main/Machine%20Learning/Data)
+- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/Fadlanprabaswara/PS411_YouthLete/tree/main/Machine%20Learning/)
 - ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://github.com/Fadlanprabaswara/YouthLete)
 - ### [&nbsp;&nbsp;Cloud Computing &rarr;]()
 
